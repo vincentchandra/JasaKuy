@@ -1,0 +1,16 @@
+.profilePicture {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+li {
+  font-weight: 600;
+  font-size: 40px !important;
+}
+li:hover {
+  text-decoration: underline;
+}
+a {
+  font-size: 20px;
+  margin-top: 10px;
+}

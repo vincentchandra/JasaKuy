@@ -1,0 +1,40 @@
+body {
+  background-color: #efffdf;
+}
+
+h1 {
+  font-size: 25px;
+}
+.input {
+  display: flex;
+  margin: auto;
+  margin-bottom: 30px;
+  border-radius: 30px !important;
+  width: 80% !important;
+}
+.submit {
+  width: 150px;
+  display: block;
+  margin: auto;
+  border-radius: 60px;
+  background-color: #dde9c4;
+}
+
+.submit:hover {
+  background-color: #b7cf83;
+}
+.title {
+  width: 60%;
+  margin: auto;
+}
+.form {
+  width: 60%;
+  margin: auto;
+  background-color: #54ffad;
+  border-radius: 10px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  box-shadow: 0px 0px 10px 1px rgb(0, 110, 9);
+}
